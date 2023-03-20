@@ -1,0 +1,5 @@
+*.Rhistory
+src/coi/dcifer*
+src/*/rawdata
+src/*/out
+src/hmmibd/run-hmmibd-local.sh
